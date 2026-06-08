@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-google-genai
+pypdf
+python-dotenv
+pydantic
+streamlit
+
